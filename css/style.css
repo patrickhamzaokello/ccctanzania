@@ -96,11 +96,11 @@ hr {
 	border-radius: 0;
 	margin: 9px 20px 0 20px;
 }
-#menu.navbar-default .navbar-nav > li > a:hover {
-	color: #ce2a36;
+#menu.navbar-default .navbar-nav > li > a:hover { /*menu colors*/
+	color: deeppink;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #ce2a36 !important;
+	color: orangered!important;
 	background-color: transparent;
 }
 #menu .phone {
